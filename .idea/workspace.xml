@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a41ef8b7-b92a-4641-ab64-021257503980" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/demo/1_b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/demo/1_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/demo/2_b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/demo/2_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/demo/3_b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/demo/3_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/demo/4_b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/demo/4_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/demo/5_b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/demo/5_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/captcha/fonts/Anorexia.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/images/backRequiredGray.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/images/back_green-fade.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/images/back_nav_blue.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/images/bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/login/images/bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/milk/bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/source/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/images/button-submit.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/captcha/images/button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/images/checked.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/images/cmxform-divider.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/images/cmxform-fieldset.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/source/helpers/fancybox_buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/source/fancybox_loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/source/fancybox_overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/source/fancybox_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/sample/bootstrap/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/sample/bootstrap/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/login/images/header1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/images/help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/tinymce/themes/simple/img/icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/images/left-nav-callout-long.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/milk/left_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/images/login-sprite.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/img/login_fb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/images/logo_marketo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/milk/milk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/login/images/page.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/login/images/required_star.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/milk/right_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/img/sample.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2-spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_original.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/images/sf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/data-tables/images/sort_asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/data-tables/images/sort_asc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/data-tables/images/sort_both.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/data-tables/images/sort_desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/data-tables/images/sort_desc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/images/step1-24.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/images/step2-24.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/images/step3-24.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/images/tab-sprite.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/images/tab_green.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/images/time.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/images/toggle.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/images/unchecked.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/images/warning.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/captcha/images/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2015_04_10_134638_create_groups_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2015_04_10_134652_create_user_group_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2015_04_10_134705_create_group_perms.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/CHANGELOG.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Model/Config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/Settings/ConfigController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/data-tables/DT_bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/data-tables/DT_bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/Settings/GroupController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Model/GroupPerms.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Model/Groups.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Library/MapSystemClasses.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/Perms.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootbox/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-notific8/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/RaporController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Library/RequestParser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/Settings/UserController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Model/UserGroup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-notific8/_notific8.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/scss/_spinning.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-notific8/_themes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/dist/additional-methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/dist/additional-methods.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/demo/ajax.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/ajaxSubmit-integration-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/app.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/tr/app.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/html/blank.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootbox/bootbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/bootstrap-datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.kr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.rs-latin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.rs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.sw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/bootstrap-datetimepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.kr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/bootstrap-datetimepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.rs-latin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.rs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.sw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/sample/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/sample/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/sample/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/sample/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/build/build.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/build/build.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/build/build_standalone.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/build/build_standalone.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/calculatorController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/captcha/captcha.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/changelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/css/cmxform.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/css/cmxformTemplate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/css/core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/mtcms/settings/config/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/mtcms/settings/groups/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/mtcms/settings/users/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/custom-messages-data-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/custom-methods-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/errors/custom.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/css/plugins/dataTables.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/dataTables/dataTables.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/css/datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datepicker/less/datepicker.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/css/datetimepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/less/datetimepicker.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/dynamic-totals.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/mtcms/settings/config/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/mtcms/settings/groups/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/mtcms/settings/users/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/tinymce/themes/simple/editor_template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/tinymce/themes/simple/langs/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/errorcontainer-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/flot/excanvas.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/file_input.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/flot/flot-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/homeController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/demo/iframe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/ihaleController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/captcha/images/image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/captcha/image_req.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/sbadmin/partial/inc_error.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/sbadmin/partial/inc_nav_menu.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/sbadmin/partial/inc_navs.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/mtcms/dashboard/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/mtcms/settings/config/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/mtcms/settings/groups/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/mtcms/settings/users/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/sample/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/demo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/login/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/milk/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/multipart/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/tabs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/tinymce/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/captcha/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/initSeed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/lib/jquery-1.6.4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/lib/jquery-1.7.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/lib/jquery-1.8.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/lib/jquery-1.8.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/bootstrap-datetimepicker/sample/jquery/jquery-1.8.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/lib/jquery-1.9.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/data-tables/jquery.dataTables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/dataTables/jquery.dataTables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/data-tables/jquery.dataTables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/source/helpers/jquery.fancybox-buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/source/helpers/jquery.fancybox-buttons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/source/helpers/jquery.fancybox-media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/source/helpers/jquery.fancybox-thumbs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/source/helpers/jquery.fancybox-thumbs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/source/jquery.fancybox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/source/jquery.fancybox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/source/jquery.fancybox.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/flot/jquery.flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/flot/jquery.flot.pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/flot/jquery.flot.resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/flot/jquery.flot.tooltip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/lib/jquery.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/lib/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/multipart/js/jquery.maskedinput-1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/jquery.maskedinput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/lib/jquery.mockjax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/fancybox/lib/jquery.mousewheel-3.0.6.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-notific8/jquery.notific8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-notific8/jquery.notific8.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-notific8/jquery.notific8.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-notific8/jquery.notific8.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/dist/jquery.validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/dist/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/jquerymobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/sbadmin/layout.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/mtcms/auth/login.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/html/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/sbadmin/login_layout.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_kk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_pt_BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_pt_PT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/messages_zh_TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/methods_de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/methods_nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/localization/methods_pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/css/plugins/metisMenu/metisMenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/metisMenu/metisMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/css/plugins/metisMenu/metisMenu.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/metisMenu/metisMenu.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/milk/milk.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/mktSignup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/morris/morris-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/css/plugins/morris.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/morris/morris.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/morris/morris.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/mtcms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/captcha/newsession.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-notific8/notific8.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/tr/pagination.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/tr/passwords.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/mtcms/settings/groups/perms.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/captcha/process.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/mtcms/settings/users/profile.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/radio-checkbox-select-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/captcha/rand.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/morris/raphael.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/release.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/css/sb-admin-2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/sb-admin-2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/less/sb-admin-2.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/css/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/login/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2-bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2-metronic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_en.js.template" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_pt-PT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/select2/select2_locale_zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/css/plugins/social-buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/less/spinning.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/step2.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/captcha/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/multipart/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/marketo/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/themerollered.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/css/plugins/timeline.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/tinymce/tiny_mce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/data-tables/turkish.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/multipart/js/ui.accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/multipart/js/ui.core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/demo/tinymce/themes/simple/skins/default/ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/js/plugins/jquery-validation/validation.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/tr/validation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/font-awesome-4.1.0/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sbadmin/assets/less/variables.less" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/PasswordController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/app.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/auth/password.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/auth/reset.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/emails/password.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/home.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/vendor/.gitkeep" afterPath="$PROJECT_DIR$/public/sbadmin/assets/css/plugins.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Kernel.php" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/User.php" afterPath="$PROJECT_DIR$/app/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/app.php" afterPath="$PROJECT_DIR$/config/app.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
+    </list>
+    <ignored path="mtcms.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="mtcms" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resources/views/metronic/login_layout.blade.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/app/Model/Grups.php" />
+        <option value="$PROJECT_DIR$/resources/lang/en/app.php" />
+        <option value="$PROJECT_DIR$/resources/views/sbadmin/login_layout.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/mtcms/auth/login.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/homeController.php" />
+        <option value="$PROJECT_DIR$/public/sbadmin/assets/js/mtcms.js" />
+        <option value="$PROJECT_DIR$/public/sbadmin/assets/css/plugins.css" />
+        <option value="$PROJECT_DIR$/resources/views/mtcms/settings/users/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/lang/tr/pagination.php" />
+        <option value="$PROJECT_DIR$/resources/lang/tr/passwords.php" />
+        <option value="$PROJECT_DIR$/resources/lang/tr/validation.php" />
+        <option value="$PROJECT_DIR$/resources/views/mtcms/settings/users/create.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/mtcms/settings/groups/create.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/mtcms/settings/users/edit.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/mtcms/settings/groups/edit.blade.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_05_23_164320_create_configs_table.php" />
+        <option value="$PROJECT_DIR$/resources/views/mtcms/settings/config/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/mtcms/settings/config/create.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/mtcms/settings/config/edit.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/mtcms/settings/groups/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/test.php" />
+        <option value="$PROJECT_DIR$/app/Library/RequestParser.php" />
+        <option value="$PROJECT_DIR$/public/sbadmin/assets/css/sb-admin-2.css" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/test.php" />
+        <option value="$PROJECT_DIR$/resources/views/sbadmin/partial/inc_nav_menu.blade.php" />
+        <option value="$PROJECT_DIR$/app/Services/PermsService.php" />
+        <option value="$PROJECT_DIR$/app/Providers/BladeSetServiceProvider.php" />
+        <option value="$PROJECT_DIR$/resources/views/mtcms/settings/groups/perms.blade.php" />
+        <option value="$PROJECT_DIR$/app/Library/MapSystemClasses.php" />
+        <option value="$PROJECT_DIR$/app/Model/UserGroup.php" />
+        <option value="$PROJECT_DIR$/app/Model/Groups.php" />
+        <option value="$PROJECT_DIR$/app/Model/GroupPerms.php" />
+        <option value="$PROJECT_DIR$/app/Model/Config.php" />
+        <option value="$PROJECT_DIR$/app/User.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/perms.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/Settings/ConfigController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/Settings/GroupController.php" />
+        <option value="$PROJECT_DIR$/resources/views/mtcms/dashboard/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/errors/custom.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/sbadmin/partial/inc_navs.blade.php" />
+        <option value="$PROJECT_DIR$/database/seeds/initSeed.php" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" />
+        <option value="$PROJECT_DIR$/resources/views/mtcms/settings/users/profile.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/Settings/UserController.php" />
+        <option value="$PROJECT_DIR$/resources/views/sbadmin/layout.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtcms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtcms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtcms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtcms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtcms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtcms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtcms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtcms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtcms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtcms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtcms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtcms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtcms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtcms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtcms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Settings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="lay&#9;FILE&#9;file:///Users/murattanriover/Desktop/www_mamp/mtcms/resources/views/sbadmin/layout.blade.php&#10;nav&#9;FILE&#9;file:///Users/murattanriover/Desktop/www_mamp/mtcms/resources/views/sbadmin/partial/inc_nav_menu.blade.php&#10;navs&#9;FILE&#9;file:///Users/murattanriover/Desktop/www_mamp/mtcms/resources/views/metronicOLD/partial/inc_navs.blade.php&#10;app&#9;FILE&#9;file:///Users/murattanriover/Desktop/www_mamp/mtcms/config/app.php&#10;routes&#9;FILE&#9;file:///Users/murattanriover/Desktop/www_mamp/mtcms/app/Http/routes.php&#10;login&#9;FILE&#9;file:///Users/murattanriover/Desktop/www_mamp/mtcms/resources/views/mtcms/auth/login.blade.php&#10;route&#9;FILE&#9;file:///Users/murattanriover/Desktop/www_mamp/mtcms/app/Http/routes.php&#10;iha&#9;null&#9;null&#10;user&#9;FILE&#9;file:///Users/murattanriover/Desktop/www_mamp/mtcms/app/User.php&#10;layout&#9;FILE&#9;file:///Users/murattanriover/Desktop/www_mamp/mtcms/resources/views/sbadmin/layout.blade.php&#10;mt&#9;FILE&#9;file:///Users/murattanriover/Desktop/www_mamp/mtcms/public/sbadmin/assets/js/mtcms.js&#10;init&#9;FILE&#9;file:///Users/murattanriover/Desktop/www_mamp/mtcms/database/seeds/initSeed.php&#10;.env&#9;FILE&#9;file:///Users/murattanriover/Desktop/www_mamp/mtcms/.env&#10;database&#9;FILE&#9;file:///Users/murattanriover/Desktop/www_mamp/mtcms/config/database.php&#10;soft&#9;FILE&#9;file:///Users/murattanriover/Desktop/www_mamp/mtcms/public/metronic/assets/scripts/custom/login-soft.js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/mtcms/settings/users" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/Admin" />
+      <recent name="$PROJECT_DIR$/resources/views/mtcms/settings/groups" />
+      <recent name="$PROJECT_DIR$/resources/views/mtcms/settings" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/Admin/Settings" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Http/Controllers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a41ef8b7-b92a-4641-ab64-021257503980" name="Default" comment="" />
+      <created>1432320272512</created>
+      <option name="number" value="Default" />
+      <updated>1432320272512</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="726" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20516963" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2681388" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/homeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/mtcms/settings/config/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5518454" vertical-offset="76" max-vertical-offset="1050">
+          <caret line="26" column="79" selection-start-line="26" selection-start-column="79" selection-end-line="26" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/mtcms/settings/config/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.5463917" vertical-offset="0" max-vertical-offset="1005">
+          <caret line="60" column="79" selection-start-line="60" selection-start-column="79" selection-end-line="60" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/mtcms/settings/users/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8681898" vertical-offset="661" max-vertical-offset="1470">
+          <caret line="77" column="22" selection-start-line="35" selection-start-column="16" selection-end-line="77" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/mtcms/settings/users/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05272408" vertical-offset="0" max-vertical-offset="1530">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/mtcms/settings/users/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/errors/503.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/lang/tr/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.077319585" vertical-offset="0" max-vertical-offset="582">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/errors/custom.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50087875" vertical-offset="0" max-vertical-offset="569">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/sbadmin/login_layout.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20618556" vertical-offset="0" max-vertical-offset="840">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/sbadmin/partial/inc_navs.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2390158" vertical-offset="0" max-vertical-offset="1860">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/sbadmin/partial/inc_nav_menu.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23725834" vertical-offset="0" max-vertical-offset="569">
+          <caret line="9" column="100" selection-start-line="9" selection-start-column="100" selection-end-line="9" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/sbadmin/partial/inc_error.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.49484536" vertical-offset="288" max-vertical-offset="870">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.008432" vertical-offset="2970" max-vertical-offset="93585">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2015_05_23_164320_create_configs_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/initSeed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43814433" vertical-offset="0" max-vertical-offset="582">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.15979381" vertical-offset="93" max-vertical-offset="675">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2015_04_10_134638_create_groups_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2015_04_10_134652_create_user_group_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2015_04_10_134705_create_group_perms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.15979381" vertical-offset="2298" max-vertical-offset="3150">
+          <caret line="147" column="8" selection-start-line="147" selection-start-column="8" selection-end-line="147" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9536083" vertical-offset="0" max-vertical-offset="675">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/BladeSetServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.984536" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="81" column="5" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Exceptions/Handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.2113402" vertical-offset="123" max-vertical-offset="705">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Events/Event.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Console/Commands/Inspire.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Console/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Commands/Command.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/BusServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/ConfigServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/EventServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/RouteServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.26288658" vertical-offset="153" max-vertical-offset="735">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Auth/Middleware/AuthenticateWithBasicAuth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Authenticate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0567011" vertical-offset="0" max-vertical-offset="825">
+          <caret line="42" column="46" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.66494846" vertical-offset="138" max-vertical-offset="720">
+          <caret line="37" column="45" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Perms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#38#68#0#PHP" expanded="true" />
+            <marker date="1432660839000" expanded="true" signature="-1:-1" placeholder="SELECT ug.us..user_group..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23195876" vertical-offset="0" max-vertical-offset="780">
+          <caret line="9" column="23" selection-start-line="7" selection-start-column="13" selection-end-line="9" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17326732" vertical-offset="0" max-vertical-offset="606">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/sbadmin/layout.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4484536" vertical-offset="654" max-vertical-offset="1920">
+          <caret line="61" column="67" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/Settings/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.314587" vertical-offset="1441" max-vertical-offset="2655">
+          <caret line="108" column="39" selection-start-line="108" selection-start-column="39" selection-end-line="108" selection-end-column="39" />
+          <folding>
+            <element signature="e#54#76#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/mtcms/settings/users/profile.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15817223" vertical-offset="270" max-vertical-offset="1275">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/mtcms/settings/groups/perms.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52724075" vertical-offset="255" max-vertical-offset="2115">
+          <caret line="37" column="101" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
