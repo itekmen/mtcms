@@ -12,7 +12,7 @@ namespace App\Library;
 class MapSystemClasses {
 
     public static function mapSystemClasses($controllerdir,$onlypublic=true) {
-        if($controllerdir==null) $controllerdir = app_path().'/http/controllers/'; // Controllers path
+        if($controllerdir==null) $controllerdir = app_path().'/Http/Controllers/'; // Controllers path
         $result=array();
         $dh=opendir($controllerdir);
         while (($file = readdir($dh)) !== false) {
